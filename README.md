@@ -18,11 +18,7 @@ We are going to learn funcionalities such as:
 
 **Node version 14.x**
 
-### Cloning the repository
 
-```shell
-git clone https://github.com/AntonioErdeljac/twitter-clone.git
-```
 
 ### Install packages
 
