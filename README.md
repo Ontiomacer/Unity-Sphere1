@@ -1,6 +1,6 @@
 
 
-We are going to learn funcionalities such as:
+Supports funcionalities such as:
 
 - Authentication system
 - Notification system
